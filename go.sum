@@ -1,5 +1,5 @@
-github.com/lucaspopp0/go-monorepo-test/a v0.0.2 h1:GAsplUl2BnYuWBk5E759VU3sR13UfxwrDQTp6kNUOTQ=
-github.com/lucaspopp0/go-monorepo-test/a v0.0.2/go.mod h1:ps4an6TI5MYtYcHuAAo7pSfNfsUTVg3nXMPRJidHMbc=
+github.com/lucaspopp0/go-monorepo-test/a v0.0.7 h1:X6qja4ea7CRTMTXM/eQweELEiE6RcHBFwMM7cl7kSJI=
+github.com/lucaspopp0/go-monorepo-test/a v0.0.7/go.mod h1:ps4an6TI5MYtYcHuAAo7pSfNfsUTVg3nXMPRJidHMbc=
 github.com/lucaspopp0/go-monorepo-test/a/c v0.0.0 h1:2KrfYvFpOugZZVPx0K6bz+LGRNeN4/fJYVtk7hZxf9Y=
 github.com/lucaspopp0/go-monorepo-test/a/c v0.0.0/go.mod h1:I1SM7FSoKHPGhVV37x60hlf82dnBSjBdGV555L9KgKY=
 github.com/lucaspopp0/go-monorepo-test/a/c/d v0.0.0 h1:nxXUQ7puXz+F1zzKoFvhcNa9sbwr7XEGc3HbmtzE7lk=
